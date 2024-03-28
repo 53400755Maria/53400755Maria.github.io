@@ -1,0 +1,10 @@
+.custom-card {
+    position: relative;
+    margin-top: -10%;
+}
+
+.bg-image {
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh;
+}

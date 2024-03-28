@@ -1,0 +1,25 @@
+.btn {
+    width: 100%;
+}
+
+.bg {
+    background-size: cover;
+    background-position: center; 
+    height: 100vh; 
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    background-color: #dadada; /* Цвет фона вашего футера */
+    padding: 20px; /* Отступы внутри футера */
+}
+
+.footer-top {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-top__item {
+    margin-right: 20px; /* Расстояние между элементами */
+}

@@ -1,0 +1,25 @@
+.container-fluid{
+    margin-top: 3%;
+    margin-bottom: 47%;
+}
+
+body {
+    background-color: #8cbece;
+}
+
+.footer {
+    margin-top: 5%;
+    position: absolute;
+    width: 100%;
+    background-color: #dadada; /* Цвет фона вашего футера */
+    padding: 20px; /* Отступы внутри футера */
+}
+
+.footer-top {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-top__item {
+    margin-right: 20px; /* Расстояние между элементами */
+}
